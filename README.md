@@ -1,5 +1,6 @@
 # Emerging-Technologies-Ian-Year4-NoteBook
-> by - [Weichen Wang](https://w326004741.github.io/) 
+> by - [Weichen Wang](https://w326004741.github.io/)  
+> tutorial from - [Dr Ian McLoughlin](https://github.com/emerging-technologies/emerging-technologies.github.io)
 
 Emerging-Technologies-Ian-Year4-Notebook
 
@@ -13,3 +14,7 @@ Emerging-Technologies-Ian-Year4-Notebook
 [Tensorflow-Problem-Sheet](https://github.com/w326004741/Tensorflow-Problem-Sheet)  
 
 [Web Application in Python to Recognize Digits in Images - Project](https://github.com/w326004741/Emerging-Technologies-Project-Year4)
+
+
+## References:
+- Python Tutorial Resources: https://github.com/emerging-technologies/emerging-technologies.github.io
