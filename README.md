@@ -1,6 +1,6 @@
 # Emerging-Technologies-Ian-Year4-NoteBook
 > by - [Weichen Wang](https://w326004741.github.io/)  
-> tutorial from - [Dr Ian McLoughlin](https://github.com/emerging-technologies/emerging-technologies.github.io)
+> tutorial from - [Dr Ian McLoughlin](https://ianmcloughlin.github.io/)
 
 Emerging-Technologies-Ian-Year4-Notebook
 
